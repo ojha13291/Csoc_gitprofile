@@ -38,3 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojha13291&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
+<h3 align="left">🏆 GitHub Trophies:</h3>
+![](https://github-profile-trophy.vercel.app/?username=ojha13291&theme=radical&no-frame=false&no-bg=true&margin-w=4)
