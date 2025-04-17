@@ -39,7 +39,4 @@
 </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-<img
-"https://github-profile-trophy.vercel.app/?username=ojha13291&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ojha13291&theme=gruvbox&column=3&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Stars,Followers&rank=SSS,SSS)](https://github.com/ojha13291/github-profile-trophy)
