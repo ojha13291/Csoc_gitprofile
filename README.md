@@ -38,5 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojha13291&show_icons=true&locale=en&layout=compact" alt="top languages" />
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ojha13291&theme=gruvbox&column=3&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=Stars,Followers&rank=SSS,SSS)](https://github.com/ojha13291/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ojha13291&theme=radical&no-frame=false&no-bg=true&margin-w=4)
