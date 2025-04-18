@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **SafetyLens**
 - 🌱 I’m currently learning **OpenCV**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **webdevelopment anr cybersecurity**
+- 💬 Ask me about **web-development and cybersecurity**
 - 📫 How to reach me: <a href="mailto:ojha13291@gmail.com">My email</a>
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1UBWU-zpgLdtSGhu9Kj1Zpf9ipnQZI9BB/view?usp=drivesdk"> My resume </a>
 - ⚡ Fun fact: **I am a slow learner and often forget things.**
