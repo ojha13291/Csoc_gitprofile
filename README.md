@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ojha13291&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on **SafetyLens**
+- 🔭 I’m currently working on **Kliniko-Ai**
 - 🌱 I’m currently learning **OpenCV**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **web-development and cybersecurity**
