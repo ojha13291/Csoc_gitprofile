@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **Kliniko-Ai**
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **LLMs**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **web-development and cybersecurity**
 - 📫 How to reach me: <a href="mailto:ojha13291@gmail.com">My email</a>
